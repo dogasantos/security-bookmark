@@ -1,0 +1,2 @@
+https://unicode.org/reports/tr36/
+http://websec.github.io/unicode-security-guide/character-transformations/
